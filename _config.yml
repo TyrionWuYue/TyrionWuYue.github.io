@@ -22,13 +22,13 @@ repository               : "tyrionwuyue/tyrionwuyue.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yue Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Scientist @Baidu"
+  location         : "Beijing, China"
+  employer         : "Baidu"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wy710502827@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
