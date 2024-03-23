@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Yue Wu (武 越). I am a Data Scientist at [Baidu](https://ir.baidu.com/). Prior to that I recieved my Master degree from [Department of Industrial & Systems Engineering, University of Southern California(USC)](https://ise.usc.edu/) in 2023.
+Hello! I am Yue Wu (武 越). I am a Data Scientist at [Baidu](https://ir.baidu.com/). Prior to that I recieved my Master degree from [Department of Industrial & Systems Engineering, University of Southern California (USC)](https://ise.usc.edu/) in 2023.
 
 A data-driven personal website
 ======
