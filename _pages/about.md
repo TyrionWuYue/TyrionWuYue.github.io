@@ -13,13 +13,14 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am Yue Wu (武越 in Chinese), a Data Analyst at Baidu. At the same time, I am also a part-time RA at University of Southampton, supervised by [Zhanxing Zhu](zhanxingzhu.github.io). I am now working on Spatial-temporal Modeling, focusing on developing deep learning algorithms to help computers understand the system dynamics spatially and temporally in different fields (including traffic and video prediction).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to that, I recieved my Master degree from Department of Industrial and Systems Engineering, University of Southern California (USC) in 2023.
+I obtained my bachelor degree in Finance from Hainan University. Thanks to these diverse experiences in work and study, which have shaped my aim in AI research - to unleash the power of AI in different fields and helps as many people as possible.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<strong>I am activaly looking for research opprtunities and a Ph.D. position in 2026 Spring/Fall! Feel free to drop me an email if you think I will be a good fit.</strong>
