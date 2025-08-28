@@ -3,10 +3,10 @@ secondary_name: ""
 navbar_name: "Yue Wu"
 
 positions:
+- logo: /assets/images/badges/tongji.png
+  name: Tongji University
 - logo: /assets/images/badges/SII.png  # Logo is optional
   name: Shanghai Innovation Institute
-- logo: /assets/images/badges/tongji.png
-  name: Position 2 without logo
 
 
 email: "yuewu60981@gmail.com"
