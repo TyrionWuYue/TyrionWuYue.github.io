@@ -1,5 +1,6 @@
 ---
 title:          "FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers"
+date:           2026-01-27 20:00:00 +0800
 selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
