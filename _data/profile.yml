@@ -41,7 +41,13 @@ education:
   position: >- 
     Computer Science & Artificial Intelligence <br/>
     Ph.D. Student
-  date: Mar. 2026 - current
+  date: Mar. 2026 - present
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: >- 
+    Intelligent Science and Technology <br/>
+    Ph.D. Student
+  date: Mar. 2026 - present
 - name: University of Southern California
   logo: /assets/images/badges/USC.png
   position: M.S. Analytics
