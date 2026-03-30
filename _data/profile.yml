@@ -23,12 +23,14 @@ github: TyrionWuYue
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi! I am Yue Wu (武越 in Chinese). I am a first-year Ph.D. student at Shanghai Innovation Institute and Tongji University, 
+    advised by Prof. <a href="https://scholar.google.com/citations?user=4N5hE8YAAAAJ" target="_blank">Kairui Feng</a>, 
+    co-advised by Prof. <a href="https://scholar.google.com/citations?user=UuCqlfEAAAAJ&hl=zh-CN" target="_blank">Xuanhong Chen</a>. 
+    Prior to my Ph.D., I received my M.S. degree from the University of Southern California. 
+    I also have 2 years of industry experience as a Data Scientist at Baidu.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research focuses on 3D Vision and World Model.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
